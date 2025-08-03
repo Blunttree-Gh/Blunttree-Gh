@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonathan Haile-Selassie Agmabah Azembah
+# 👋 Hi, I'm Jonathan Haile-Selassie Agambah Azembah
 
 💼 Full-Stack Developer | Mobile Dev | Cybersecurity Enthusiast  
 📍 Ghana | 🌍 Open to global remote opportunities  
