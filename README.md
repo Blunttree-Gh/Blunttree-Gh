@@ -1,37 +1,38 @@
-# 👋 Hi, I'm Jonathan Haile-Selassie Agambah Azembah
+# 👋 Hi, I’m Jonathan Haile-Selassie Agambah Azembah
 
-💼 Full-Stack Developer | Mobile Dev | Cybersecurity Enthusiast  
-📍 Ghana | 🌍 Open to global remote opportunities  
-📧 blunttree8819@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/agambah) • [GitHub](https://github.com/Blunttree-Gh)
+🎯 Full-Stack Developer | ⚡ Mobile Engineer | 🛡️ Cybersecurity Enthusiast
 
 ---
 
-### 🚀 What I'm Working On
+### 🌍 About Me
 
-- 🎬 **[WemStream](https://github.com/Blunttree-Gh/WemStream)** – Africa-first streaming platform (React + TailwindCSS + MoMo Payments)
-- 🛒 **[MakolaStore](https://github.com/Blunttree-Gh/MakolaStore-repo)** – Multi-country eCommerce app (Expo + WooCommerce API)
-- 🤖 **[WemyBot](https://github.com/Blunttree-Gh/WemyBot)** – AI assistant chatbot with fullstack deployment
-- 🌐 **[Portfolio Website](https://blunttree-gh.github.io/portfolio)** – Currently redesigning!
+I'm passionate about building practical, secure, and scalable digital solutions for Africa and beyond. I specialize in:
 
----
-
-### 🔧 Tech Stack
-
-`JavaScript` `React` `React Native` `Node.js` `Laravel`  
-`TailwindCSS` `Expo` `WooCommerce API` `JWT Auth` `Cybersecurity`
+- 📱 React Native & Mobile Development
+- 🛒 E-commerce & Payment Systems (e.g., MTN MoMo)
+- 🔐 Cybersecurity Practices & DevSecOps
+- 🌐 Web Platforms (React, Laravel, Node.js)
+- ☁️ Cloud/DevOps Tools (Render, Netlify, Vercel, GitHub Actions)
 
 ---
 
-### 📈 Currently Learning
+### 🚀 Featured Projects
 
-- ☁️ Cloud (AWS & Render)
-- 🧪 DevSecOps practices
-- 🧠 AI/ML integrations for real-life tools
+| Project | Description |
+|--------|-------------|
+| [MakolaStore](https://github.com/Blunttree-Gh/MakolaStore-repo) | Multi-country e-commerce mobile app with WooCommerce & JWT Auth |
+| [WemStream](https://github.com/Blunttree-Gh/WemStream) | African-themed streaming platform with MTN MoMo integration |
+| [WemyBot](https://github.com/Blunttree-Gh/WemyBot) | AI-powered chatbot assistant with a floating UI widget |
+| [Resume](https://github.com/Blunttree-Gh/resume) | My up-to-date CV and career overview |
 
 ---
 
-### 📣 Let's Collaborate
+### 📫 Connect with Me
 
-If you're a company or founder looking to build secure, scalable platforms — let's connect!
+- 📧 blunttree8819@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/agambah)  
+- 🌐 [GitHub Portfolio](https://github.com/Blunttree-Gh)
 
+---
+
+**“Let’s build Africa-first solutions that scale globally.”**
