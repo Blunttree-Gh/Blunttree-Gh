@@ -1,51 +1,37 @@
-# 👋 Hi, I’m Jonathan Haile-Selassie Azembah
+# 👋 Hi, I'm Jonathan Haile-Selassie Agmabah Azembah
 
-### 💻 Full-Stack Developer | 📱 Mobile App Engineer | 🛡️ Cybersecurity Enthusiast  
-🌍 Building Africa-first, secure, and scalable digital experiences.  
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 [WemStream](https://github.com/Blunttree-Gh/WemStream)  
-African-focused movie streaming platform — supports multiple profiles, MTN MoMo payments, and mobile-first design.  
-**Tech:** Vite, TailwindCSS, React, JWT, MoMo API
-
-### 🛒 [MakolaStore](https://github.com/Blunttree-Gh/MakolaStore-repo)  
-Multi-country e-commerce app — switch between Ghana & US storefronts with dynamic product listings.  
-**Tech:** React Native, WooCommerce REST API, JWT Auth, Push Notifications
-
-### 🤖 [WemyBot](https://github.com/Blunttree-Gh/WemyBot)  
-AI assistant widget for websites — integrates chat with backend APIs, file uploads, and floating UI.  
-**Tech:** React + Node, Tailwind, Chat APIs
+💼 Full-Stack Developer | Mobile Dev | Cybersecurity Enthusiast  
+📍 Ghana | 🌍 Open to global remote opportunities  
+📧 blunttree8819@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/agambah) • [GitHub](https://github.com/Blunttree-Gh)
 
 ---
 
-## 📦 Skills & Tools
+### 🚀 What I'm Working On
 
-- **Languages:** JavaScript, PHP, HTML/CSS, Python
-- **Frameworks:** React, React Native, Laravel, Node.js
-- **Tools:** Git & GitHub, Vite, TailwindCSS, Expo, Postman, VS Code
-- **DevOps & Hosting:** Render, Netlify, Vercel
-- **Other:** Cybersecurity (Burp Suite, Metasploit), MTN MoMo API
-
----
-
-## 🌱 Current Focus
-
-- Improving frontend UI/UX for mobile
-- Integrating real payment APIs (MoMo)
-- Preparing for international job applications and freelance gigs
-- Sharing real-world projects on GitHub, LinkedIn & Facebook
+- 🎬 **[WemStream](https://github.com/Blunttree-Gh/WemStream)** – Africa-first streaming platform (React + TailwindCSS + MoMo Payments)
+- 🛒 **[MakolaStore](https://github.com/Blunttree-Gh/MakolaStore-repo)** – Multi-country eCommerce app (Expo + WooCommerce API)
+- 🤖 **[WemyBot](https://github.com/Blunttree-Gh/WemyBot)** – AI assistant chatbot with fullstack deployment
+- 🌐 **[Portfolio Website](https://blunttree-gh.github.io/portfolio)** – Currently redesigning!
 
 ---
 
-## 📫 Let's Connect
+### 🔧 Tech Stack
 
-- 📧 Email: blunttree8819@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/agambah)  
-- 💼 [GitHub Projects](https://github.com/Blunttree-Gh?tab=repositories)
+`JavaScript` `React` `React Native` `Node.js` `Laravel`  
+`TailwindCSS` `Expo` `WooCommerce API` `JWT Auth` `Cybersecurity`
 
 ---
 
-> “Let’s build software that transforms African lives — securely, beautifully, and at scale.”  
+### 📈 Currently Learning
+
+- ☁️ Cloud (AWS & Render)
+- 🧪 DevSecOps practices
+- 🧠 AI/ML integrations for real-life tools
+
+---
+
+### 📣 Let's Collaborate
+
+If you're a company or founder looking to build secure, scalable platforms — let's connect!
+
